@@ -5,5 +5,3 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
-  - skimage
-  - mpl_toolkits
